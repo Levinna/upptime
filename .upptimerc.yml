@@ -4,13 +4,13 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Deep100
-    url: deeplearning.handong.edu
+    url: http://deeplearning.handong.edu
   - name: Deep200
-    url: deeplearning.handong.edu
+    url: http://deeplearning.handong.edu
   - name: Deep300
-    url: deeplearning.handong.edu
+    url: http://deeplearning.handong.edu
   - name: Deep15
-    url: deeplearning.handong.edu
+    url: http://deeplearning.handong.edu
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +23,7 @@ status-website:
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
-      href: deeplearning.handong.edu
+      href: http://deeplearning.handong.edu
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 

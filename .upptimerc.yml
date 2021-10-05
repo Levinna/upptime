@@ -1,5 +1,5 @@
 # Change these first
-owner: Levinna # Your GitHub organization or username, where this repository lives
+owner: levinna # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
@@ -11,6 +11,9 @@ sites:
     url: http://deeplearning.handong.edu
   - name: Deep15
     url: http://deeplearning.handong.edu
+
+assignees: #Users to assign downtime issues (optional)
+  - Levinna
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

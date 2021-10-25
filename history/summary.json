@@ -4,19 +4,19 @@
     "url": "http://deeplearning.handong.edu",
     "icon": "https://favicons.githubusercontent.com/deeplearning.handong.edu",
     "slug": "dllab-site",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1058,
-    "timeDay": 1390,
-    "timeWeek": 1051,
-    "timeMonth": 1058,
-    "timeYear": 1058,
+    "status": "up",
+    "uptime": "99.66%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.66%",
+    "time": 1060,
+    "timeDay": 1254,
+    "timeWeek": 1058,
+    "timeMonth": 1060,
+    "timeYear": 1060,
     "dailyMinutesDown": {
-      "2021-10-25": 0
+      "2021-10-25": 95
     }
   }
 ]

@@ -4,7 +4,7 @@
     "url": "http://deeplearning.handong.edu",
     "icon": "https://favicons.githubusercontent.com/deeplearning.handong.edu",
     "slug": "dllab-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1221,
     "timeYear": 1105,
     "dailyMinutesDown": {
+      "2022-07-06": 0,
       "2022-03-28": 24,
       "2021-10-25": 95
     }

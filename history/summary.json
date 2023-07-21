@@ -5,23 +5,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/deeplearning.handong.edu.ico",
     "slug": "dllab-site",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 1154,
-    "timeDay": 796,
-    "timeWeek": 801,
-    "timeMonth": 922,
+    "timeDay": 856,
+    "timeWeek": 799,
+    "timeMonth": 918,
     "timeYear": 1158,
     "dailyMinutesDown": {
       "2023-02-25": 47,
       "2023-02-24": 36,
       "2023-01-25": 115,
       "2022-12-21": 20,
-      "2022-07-22": 240,
-      "2022-07-21": 844
+      "2022-07-22": 240
     }
   }
 ]

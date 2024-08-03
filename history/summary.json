@@ -4,18 +4,19 @@
     "url": "http://deeplearning.handong.edu",
     "icon": "https://icons.duckduckgo.com/ip3/deeplearning.handong.edu.ico",
     "slug": "dllab-site",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.44%",
     "uptimeYear": "99.87%",
-    "time": 989,
-    "timeDay": 955,
-    "timeWeek": 917,
-    "timeMonth": 956,
+    "time": 990,
+    "timeDay": 988,
+    "timeWeek": 924,
+    "timeMonth": 966,
     "timeYear": 946,
     "dailyMinutesDown": {
+      "2024-08-03": 0,
       "2024-07-09": 684
     }
   }

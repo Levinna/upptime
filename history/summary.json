@@ -6,9 +6,9 @@
     "slug": "dllab-site",
     "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.44%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "98.42%",
     "uptimeYear": "99.87%",
     "time": 990,
     "timeDay": 988,
@@ -16,7 +16,7 @@
     "timeMonth": 966,
     "timeYear": 946,
     "dailyMinutesDown": {
-      "2024-08-03": 0,
+      "2024-08-03": 9,
       "2024-07-09": 684
     }
   }
